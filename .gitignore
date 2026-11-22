@@ -1,0 +1,46 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook temporary files
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Google Colab and Google Drive
+drive/
+content/
+
+# Datasets
+data/
+dataset/
+datasets/
+*.csv
+*.zip
+*.gz
+
+# Model checkpoints and saved weights
+*.h5
+*.hdf5
+*.keras
+*.pth
+*.pt
+*.ckpt
+*.onnx
+
+# Logs and temporary files
+logs/
+*.log
+*.tmp
+
+# Private credentials
+.env
+*.pem
+credentials.json
+
+# Operating system files
+.DS_Store
+Thumbs.db
